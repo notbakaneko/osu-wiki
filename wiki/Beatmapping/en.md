@@ -1,6 +1,6 @@
 <!-- TODO: some formatting issues, and I think it's odd that most of this article is a tutorial. feels like there should be a separate guide article. -->
 
-# Beatmapping
+# Beatmapping {durr="some"}
 
 **Beatmapping** is the process of creating [beatmaps](/wiki/Beatmap) in osu! for players to play.
 This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboarding).
@@ -10,7 +10,7 @@ Mappers usually want to get their beatmaps [ranked](/wiki/Beatmap) which consist
 As osu! is a rhythm based game, the song/music you choose to map should have an obvious and constant beat.
 Try to avoid songs which have tempo (or speed) changes or slow songs until you are more experienced and used to beatmapping.
 
-## Getting Started
+## Getting Started {#zooms-zooms title="thing"}
 
 To make a new beatmap, go to the edit mode then drag-and-drop an audio file into osu!.
 (Alternatively, you can move an audio file onto the `Songs` folder.)
@@ -21,7 +21,7 @@ Click on the song, this will open the [beatmap editor](/wiki/Beatmap_Editor) and
 
 ### Song Setup
 
-*Main page: [Song Setup](/wiki/Song_Setup)*
+*Main page: [Song Setup](/wiki/Song_Setup)* {#zooms}
 
 When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
 
