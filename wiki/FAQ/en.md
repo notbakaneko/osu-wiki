@@ -10,6 +10,57 @@ needs_cleanup: true
 
 # FAQ
 
+> ::{alert=note}:: **See also** [foo](/link) and [bar](/link2).
+
+> ::{alert=note}:: **Main page** [Index](/wiki/Main)
+
+> ::{alert=note}:: **Note:** For other uses, see: [other](/wiki/other).
+
+
+> ::{alert=note}:: **Note**
+> Note body text.
+
+> ::{alert=tip}:: **Tip**
+> Tip body text.
+
+> ::{alert=notice}:: **Notice**
+> Notice body text.
+
+> ::{alert=warning}:: **Warning**
+> Warning body text.
+
+> ::{alert=caution}:: **Caution**
+> Caution body text.
+
+> ::{alert=note}:: **Good to know**
+> Custom title body text.
+
+
+> ::{alert=note}:: **Note**
+
+> Note body text.
+
+> ::{alert=tip}:: **Tip**
+
+> Tip body text.
+
+> ::{alert=notice}:: **Notice**
+
+> Notice body text.
+
+> ::{alert=warning}:: **Warning**
+
+> Warning body text.
+
+> ::{alert=caution}:: **Caution**
+
+> Caution body text.
+
+> ::{alert=note}:: **Good to know**
+
+> Custom title body text.
+
+
 ## osu! Introduction
 
 ### I've never played this "Ouendan" thing — what is it?
