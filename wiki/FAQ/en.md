@@ -12,6 +12,8 @@ asdsadsa
 
 # FAQ
 
+>{data-alert=note} **aaaaaaa also** [foo](/link) and [bar](/link2).
+
 > {data-alert=note} **See also** [foo](/link) and [bar](/link2).
 
 > {.alert-note} **See also** [foo](/link) and [bar](/link2).
