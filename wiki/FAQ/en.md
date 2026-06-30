@@ -8,6 +8,8 @@ needs_cleanup: true
 - dated/misleading info in many sections
 - this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorisation in the spirit of https://github.com/ppy/osu-wiki/issues/3143 -->
 
+asdsadsa
+
 # FAQ
 
 > {data-alert=note} **See also** [foo](/link) and [bar](/link2).
