@@ -12,14 +12,25 @@ asdsadsa
 
 # FAQ
 
->{data-alert=note} **aaaaaaa also** [foo](/link) and [bar](/link2).
 
-> {data-alert=note} **See also** [foo](/link) and [bar](/link2).
+::: alert {data-alert="some message"}
+**style block**
+:::
 
-> {.alert-note} **See also** [foo](/link) and [bar](/link2).
+{data-alert=note .alert-note}
+> **aaaaaaa also** [foo](/link) and [bar](/link2).
 
-> {data-alert=note}:: **See also** [foo](/link) and [bar](/link2).
+> {data-alert=note} **data-alert p** [foo](/link) and [bar](/link2).
+
+> {.alert-note} **class p** [foo](/link) and [bar](/link2).
+
+{data-alert=note}
+> ::{data-alert=note}**with inine containers**:: [foo](/link) and [bar](/link2).
 > Text
+
+> [!WARNING] GFM [foo](/link) and [bar](/link2).
+> Text
+
 
 > ::{alert=note}:: **See also** [foo](/link) and [bar](/link2).
 
