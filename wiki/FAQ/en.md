@@ -12,8 +12,12 @@ asdsadsa
 
 # FAQ
 
+::: Infobox
+**style block**
+:::
 
-::: alert {data-alert="some message"}
+{data-alert="some message"}
+::: Alert
 **style block**
 :::
 
