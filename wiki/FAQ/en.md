@@ -10,6 +10,13 @@ needs_cleanup: true
 
 # FAQ
 
+> {data-alert=note} **See also** [foo](/link) and [bar](/link2).
+
+> {.alert-note} **See also** [foo](/link) and [bar](/link2).
+
+> {data-alert=note}:: **See also** [foo](/link) and [bar](/link2).
+> Text
+
 > ::{alert=note}:: **See also** [foo](/link) and [bar](/link2).
 
 > ::{alert=note}:: **Main page** [Index](/wiki/Main)
