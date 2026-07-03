@@ -17,9 +17,40 @@ asdsadsa
 :::
 
 {data-alert="some message"}
-::: Alert
-**style block**
+::: alert-caution
+**style block** dgdgdf
 :::
+
+
+::: alert-notice
+**style block**
+dgdgdf
+rrrrrt
+:::
+
+
+::: alert-caution
+**style block**
+
+dgdgdf
+rrrrrt
+:::
+
+::: alert-caution
+
+
+
+**style block** dgdgdf
+
+
+
+
+
+
+:::
+
+
+::: alert-caution **style block** dgdgdf :::
 
 {data-alert=note .alert-note}
 > **aaaaaaa also** [foo](/link) and [bar](/link2).
