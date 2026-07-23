@@ -34,6 +34,12 @@ The osu! development effort is lead by ::{ flag=AU }:: **[peppy](https://osu.ppy
 
 ### Website developers
 
+- ::{ flag=JP }:: ::**wat**::{ user=475001 }
+- ::{ flag=JP }:: ::**wat** *wat*::{ user=475002 }
+- ::{ flag=JP }:: ::{ user=475001 }::
+- ::{ flag=JP }:: ::{ user=475001 } wattt::
+- ::{ flag=JP }:: ::{ user=475001 } **wattt** [link](https://osu.ppy.sh/users/10751776) something::
+- ::{ flag=JP }:: ::{ user=475001 }[existing](https://osu.ppy.sh/users/10751776)::
 - ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
 - ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 - ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
