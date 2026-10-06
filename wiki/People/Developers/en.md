@@ -7,6 +7,66 @@ tags:
   - osu! devs
 ---
 
+Fence
+
+::: alert-caution
+caution
+:::
+
+::: alert-warning
+warning
+:::
+
+:::: alert-note
+note
+::: alert-notice
+notice
+::: alert-caution
+caution
+:::
+:::
+::::
+
+
+:::: alert-note
+note
+::: alert-notice
+notice
+before note closing
+::::
+after note closing
+:::
+
+
+::: alert-caution
+caution
+:::: alert-note
+note
+:::
+filler, should not close note ?
+::::
+this is not a valid closing order?
+
+::: alert-caution
+caution
+:::: alert-note
+note
+:::::
+filler, should not close note ?
+::::
+this is not a valid closing order?
+
+
+:::: alert-caution
+caution
+::: alert-note
+note
+:::::
+filler, should close note ?
+::::
+this is a valid closing order?
+
+
 # Developers
 
 The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu! team](/wiki/People/osu!_team).
